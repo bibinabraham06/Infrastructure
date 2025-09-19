@@ -1,0 +1,7 @@
+{
+  "mlx_version": "0.29.1",
+  "device_available": true,
+  "metal_device": "{'resource_limit': 499000, 'max_buffer_length': 22613000192, 'architecture': 'applegpu_g16s', 'memory_size': 38654705664, 'max_recommended_working_set_size': 30150672384, 'device_name': 'Apple M4 Max'}",
+  "status": "operational",
+  "backup_date": "2025-09-18T23:45:16-04:00"
+}

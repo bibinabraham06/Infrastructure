@@ -1,0 +1,6 @@
+100.116.44.26   macbook-pro          bibinabraham06@ macOS   -
+100.80.8.70     immich               bibinabraham06@ linux   offline
+100.99.71.128   iphone-localhost     bibinabraham06@ iOS     -
+100.121.178.110 mediagw              bibinabraham06@ linux   -
+100.75.230.110  ollama               bibinabraham06@ linux   idle, tx 1352 rx 1108
+100.94.114.43   pve                  tagged-devices linux   active; direct 104.58.70.192:1070, tx 328584 rx 3396096
